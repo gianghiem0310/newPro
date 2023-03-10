@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File cua week2 ma thoi
+=======
+File cua week2 va main
+>>>>>>> main
