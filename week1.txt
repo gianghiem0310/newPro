@@ -1,2 +1,0 @@
-Day la file week1.txt
-Thuoc branch: week1 và main
