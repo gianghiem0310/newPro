@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Đay la file text cua week1
+=======
+Đay la file text cua branch wel1
+>>>>>>> main
